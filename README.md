@@ -1,5 +1,5 @@
 # day4-asignment-1
-Bizzword display
+Fizzword display
 
 for(i=1; i<101; i++){
   x=i/3;
